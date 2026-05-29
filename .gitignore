@@ -3,11 +3,12 @@ __pycache__/
 *.py[codz]
 *$py.class
 
-# C extensions
+# 데이터 파일
 *.so
 *.tsv
 *.xlsx
 *.png
+*.pkl
 
 # Distribution / packaging
 .Python
@@ -15,7 +16,6 @@ build/
 develop-eggs/
 dist/
 downloads/
-data/
 eggs/
 .eggs/
 lib/
