@@ -1,8 +1,0 @@
-item,value
-original_genes,20501.0
-original_missing_values,2300575.0
-original_missing_fraction,0.0210263625065996
-genes_after_missing_variance_filter,20265.0
-selected_top_variable_genes,3000.0
-train_remaining_missing_values,0.0
-test_remaining_missing_values,0.0
