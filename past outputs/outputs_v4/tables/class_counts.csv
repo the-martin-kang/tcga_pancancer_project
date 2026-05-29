@@ -1,0 +1,21 @@
+cancer_type,n_samples,sample_percent,full_name
+BLCA,408,4.82,Bladder urothelial carcinoma
+BRCA,1000,11.82,Breast invasive carcinoma
+CESC,304,3.59,Cervical squamous cell carcinoma and endocervical adenocarcinoma
+COAD,449,5.31,Colon adenocarcinoma
+ESCA,184,2.18,Esophageal carcinoma
+HNSC,520,6.15,Head and neck squamous cell carcinoma
+KIRC,533,6.3,Kidney renal clear cell carcinoma
+KIRP,290,3.43,Kidney renal papillary cell carcinoma
+LGG,515,6.09,Brain lower grade glioma
+LIHC,371,4.39,Liver hepatocellular carcinoma
+LUAD,515,6.09,Lung adenocarcinoma
+LUSC,501,5.92,Lung squamous cell carcinoma
+OV,304,3.59,Ovarian serous cystadenocarcinoma
+PAAD,178,2.1,Pancreatic adenocarcinoma
+PCPG,179,2.12,Pheochromocytoma and paraganglioma
+PRAD,497,5.88,Prostate adenocarcinoma
+SARC,259,3.06,Sarcoma
+STAD,415,4.91,Stomach adenocarcinoma
+THCA,505,5.97,Thyroid carcinoma
+UCEC,532,6.29,Uterine corpus endometrial carcinoma

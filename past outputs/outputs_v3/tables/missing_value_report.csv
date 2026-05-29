@@ -1,0 +1,9 @@
+item,value
+n_values,173417959.0
+missing_values,2999955.0
+missing_fraction,0.01729898689443116
+genes_with_any_missing,4179.0
+genes_with_>20pct_missing,0.0
+samples_with_any_missing,1451.0
+max_gene_missing_fraction,0.17153327816526776
+max_sample_missing_fraction,0.18306424076874298

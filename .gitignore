@@ -5,6 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
+*.tsv
+*.xlsx
+*.png
 
 # Distribution / packaging
 .Python
@@ -12,6 +15,7 @@ build/
 develop-eggs/
 dist/
 downloads/
+data/
 eggs/
 .eggs/
 lib/
